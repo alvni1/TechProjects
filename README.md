@@ -3,7 +3,7 @@
 <h2>👨‍💻 Labs & Projects:
 
 - <b>Active Directory Home Lab</b>
-  -(https://github.com/joshmadakor1/Algorithms-Practice)
+  -(https://github.com/alvni1/ActiveDirectoryLab)
 - <b>Integrated IT Systems and Security Management Project 
 </b>
   
