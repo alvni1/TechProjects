@@ -6,6 +6,8 @@
   -(https://github.com/alvni1/ActiveDirectoryLab)
 - <b>Integrated IT Systems and Security Management Project 
   -(https://github.com/alvni1/Integrated-IT-Systems-and-Security-Management-Project/tree/main)
+- <b>Automating Active Directory with Powershell</b>
+  -(https://github.com/alvni1/Automating-Active-Directory-with-Powershell/blob/main/README.md)
   
   
 
