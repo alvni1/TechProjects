@@ -8,6 +8,9 @@
   -(https://github.com/alvni1/Integrated-IT-Systems-and-Security-Management-Project/tree/main)
 - <b>Automating Active Directory with Powershell</b>
   -(https://github.com/alvni1/Automating-Active-Directory-with-Powershell/blob/main/README.md)
+- <b>Basic Device Security on Cisco Devices</b>
+   -(https://github.com/alvni1/Basic-Device-Security-/tree/main)
+  
   
   
 
