@@ -10,9 +10,9 @@
   -(https://github.com/alvni1/Automating-Active-Directory-with-Powershell/blob/main/README.md)
 - <b>Basic Device Security on Cisco Devices</b>
    -(https://github.com/alvni1/Basic-Device-Security-/tree/main)
-  
-  
-  
+- <b>Analyzing Ethernet Switching</b>
+   -( https://github.com/alvni1/Analyzing-Ethernet-Switching/blob/main/README.md)
+
 
 
 <!--
