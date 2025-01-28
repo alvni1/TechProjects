@@ -12,7 +12,8 @@
    -(https://github.com/alvni1/Basic-Device-Security-/tree/main)
 - <b>Analyzing Ethernet Switching</b>
    -( https://github.com/alvni1/Analyzing-Ethernet-Switching/blob/main/README.md)
-
+- <b>Configuring IP Addresses</b>
+   -( https://github.com/alvni1/Configuring-IP-Addresses/blob/main/README.md)
 
 
 <!--
