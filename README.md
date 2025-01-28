@@ -17,7 +17,7 @@
 - <b>Troubleshooting Static Routes</b>
    -(https://github.com/alvni1/Troubleshooting-Static-Routes-/blob/main/README.md )
 - <b>Subnetting Variable Length Subnet Mask (VLSM)</b>
-   -( https://github.com/alvni1/Subnetting-VLSM-Variable-Length-Subnet-Mask-/blob/main/README.md)
+   -(https://github.com/alvni1/Subnetting-VLSM-Variable-Length-Subnet-Mask-/blob/main/README.md )
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
