@@ -14,7 +14,8 @@
    -( https://github.com/alvni1/Analyzing-Ethernet-Switching/blob/main/README.md)
 - <b>Configuring IP Addresses</b>
    -( https://github.com/alvni1/Configuring-IP-Addresses/blob/main/README.md)
-
+- <b>Troubleshooting Static Routes</b>
+   -(https://github.com/alvni1/Troubleshooting-Static-Routes-/blob/main/README.md )
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
