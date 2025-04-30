@@ -35,5 +35,10 @@
 - <b>Enterprise Multi-Site Network Design with OSPF, VLAN Segmentation, HSRP and Security-ACLs</b>
    -([https://github.com/alvni1/Configuring-VLANS-Pt-1/blob/main/README.md ](https://github.com/alvni1/Enterprise-Multi-Site-Network-Design-with-OSPF-VLAN-Segmentation-HSRP-and-Security-ACLs))
 
+- <b>Azure Based Palo-Alto Firewall Lab with DMZ Web Server Access</b>
+   -(https://github.com/alvni1/Azure-Based-Palo-Alto-Firewall-Lab-with-DMZ-Web-Server-Access/tree/main)
+
+  
+ 
 
   
